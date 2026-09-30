@@ -1,36 +1,41 @@
-# Forever Lite: free one-page wedding website template
+# Forever Lite - Free Bootstrap 5 & HTML5 Event Website Template
 
-A single-file HTML wedding site with editorial typography, smooth scrolling (Lenis) and scroll-triggered animation. No build step. Open index.html and edit.
+#### Preview
 
-Live demo: https://forever-lite.vercel.app
+ - [Demo](https://themewagon.github.io/forever-lite/)
 
-## Quick start
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/forever-lite/)
 
-1. Edit the text directly in index.html: your names, date, venue, order of the day, travel, dress code, FAQs.
-2. Replace the photos in img/ with your own (keep the filenames, or update the src paths).
-3. Set your wedding date in the CONFIG at the bottom of the file. The countdown updates itself.
-4. Upload anywhere. Vercel, Netlify and GitHub Pages host it free.
+## Getting Started
+
+1. Clone Repository
+```
+git clone https://github.com/themewagon/forever-lite.git
+```
+2. Install Dependencies
+```
+npm i
+```
+3. Run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+## Author 
+```
+Design and code is completely written by Mike Smith Design and development team. 
+```
 
 ## License
 
-Free for personal and commercial use, including unlimited client projects. If you are building a site with it, attribution is appreciated but not required.
-
-Free template directories and galleries may host and redistribute this template at no charge, provided they credit Mike Smith Design, link to https://github.com/mikesmithdesign/forever-lite, and keep this README and LICENSE.md with the download.
-
-Not permitted: selling this template, charging for access to it, or including it in a paid product, template pack or subscription.
-
-Full terms in LICENSE.md.
-
-Demo photos are Pexels placeholders for preview only. Replace them with your own photography before going live.
-
-## Want the full version?
-
-The full Forever theme adds the things this one can't do:
-
-- A password gate styled as your invitation
-- An RSVP where each guest picks their menu choices, posted to your inbox
-- The menu section, driven by the same file as the RSVP
-- A scroll-driven image crossfade through the order of the day
-- Five-file JSON editing, no HTML required
-
-https://mikesmithdesign.gumroad.com/l/forever-astro-theme
+ - Design and Code is Copyright &copy; <a href="https://github.com/mikesmithdesign" target="_blank">Mike Smith Design</a>
+ - Licensed under [LICENSE.md](LICENSE.md)
+ - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
