@@ -1,4 +1,4 @@
-# Forever Lite - Free Bootstrap 5 & HTML5 Event Website Template
+# Forever Lite - Free HTML5 & CSS3 Event Website Template
 
 #### Preview
 
@@ -37,5 +37,5 @@ Design and code is completely written by Mike Smith Design and development team.
 ## License
 
  - Design and Code is Copyright &copy; <a href="https://github.com/mikesmithdesign" target="_blank">Mike Smith Design</a>
- - Licensed under [LICENSE.md](LICENSE.md)
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+ - See [LICENSE.md](LICENSE.md) for license details.
+ - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>. 
